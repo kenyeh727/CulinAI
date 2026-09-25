@@ -53,7 +53,7 @@
    cp .env.example .env
    ```
    ```env
-   VITE_GEMINI_API_KEY=your_key_here
+   VITE_AI_API_KEY=your_key_here
    ```
 
 4. **Start the development server**

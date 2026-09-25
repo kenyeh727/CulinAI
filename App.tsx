@@ -390,7 +390,7 @@ const AppContent: React.FC = () => {
       {/* Footer */}
       <footer className="relative z-10 border-t border-stone-200/50 bg-white/60 backdrop-blur-sm mt-12 py-8">
         <div className="max-w-6xl mx-auto px-4 text-center text-stone-500 text-sm">
-          &copy; {new Date().getFullYear()} {t.appTitle}. Powered by Google Gemini.
+          &copy; {new Date().getFullYear()} {t.appTitle}. Powered by AI.
         </div>
       </footer>
 
