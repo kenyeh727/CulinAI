@@ -8,10 +8,10 @@
 >
 > Turn the ingredients you already have into culinary masterpieces. Tell CulinAI what's in your kitchen, and it plans the menu, generates recipes, and guides you through every step.
 
-[![Deploy to GitHub Pages](https://github.com/kenyeh727/Culin-make-your-food-become-masterpieces/actions/workflows/deploy.yml/badge.svg)](https://github.com/kenyeh727/Culin-make-your-food-become-masterpieces/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/kenyeh727/CulinAI/actions/workflows/deploy.yml/badge.svg)](https://github.com/kenyeh727/CulinAI/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🌐 Live Demo](https://kenyeh727.github.io/Culin-make-your-food-become-masterpieces/) | [📖 中文說明](#中文說明)
+[🌐 Live Demo](https://kenyeh727.github.io/CulinAI/) | [📖 中文說明](#中文說明)
 
 ---
 
@@ -37,8 +37,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kenyeh727/Culin-make-your-food-become-masterpieces.git
-   cd Culin-make-your-food-become-masterpieces
+   git clone https://github.com/kenyeh727/CulinAI.git
+   cd CulinAI
    ```
 
 2. **Install dependencies**
@@ -73,7 +73,7 @@
 ## 📁 Project Structure
 
 ```
-Culin-make-your-food-become-masterpieces/
+CulinAI/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml          # GitHub Actions deployment workflow
